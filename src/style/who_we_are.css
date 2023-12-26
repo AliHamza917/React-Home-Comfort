@@ -1,0 +1,28 @@
+.who_we_are_banner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.who_we_are_img{
+    padding: 20px;
+}
+.who_we_are_img img{
+    border-radius: 400px;
+}
+
+.who_we_are_txt h1{
+    padding-top: 80px ;
+    color: #1E1E1E;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.8px;
+}
+.who_we_are_txt h1 b{
+    color: #058B8C;
+    font-weight: 700;
+}
+.who_we_are_txt p{
+    color: #1E1E1E;
+    font-size: 13px;
+    line-height: 25px; /* 194.444% */
+}

@@ -1,0 +1,41 @@
+.company_authority_banner{
+    width: 100%;
+    height: 600px;
+    background: #058B8C;
+    padding: 33px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.company_authority_banner_txt{
+    padding-left: 340px;
+    padding-top: 25px;
+}
+
+
+.company_authority_banner_txt h1{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: -1.8px;
+}
+
+.company_authority_banner_txt b{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.8px;
+}
+.company_authority_banner_txt p{
+    width: 692px;
+    height: 180px;  
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 35px; /* 194.444% */
+}
+.company_authority_banner_img img{
+    height: 539px;
+    padding-left: 15px;
+}
