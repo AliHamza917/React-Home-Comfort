@@ -1,0 +1,15 @@
+ .global_heading h1{
+
+    color: #1E1E1E;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: -1.8px;
+
+}
+
+ .global_heading h1 b{
+    color: #058B8C;
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: -1.8px;
+}

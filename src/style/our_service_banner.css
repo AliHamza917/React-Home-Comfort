@@ -94,6 +94,7 @@
 }
 
 .banner_button .btn_2 {
+    margin-left: 10px;
     border-radius: 48px;
     background: transparent;
     /* box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.20), 3px 4px 10px 0px rgba(0, 0, 0, 0.20) inset; */
